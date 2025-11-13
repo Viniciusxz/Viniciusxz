@@ -11,6 +11,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     name: Generate GitHub Contribution Snake
 
     steps:
@@ -18,7 +20,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake animation
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Viniciusxz
           outputs: dist/github-contribution-grid-snake.svg
@@ -30,3 +32,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
