@@ -1,6 +1,6 @@
 <!-- Vinícius Ribeiro | GitHub Profile -->
 
-<h1 align="center">👋 Olá, eu sou o Vinícius Ribeiro</h1>
+<h1 align="center">👋 Olá, eu sou Vinícius Ribeiro</h1>
 
 <p align="center">
 💻 Desenvolvedor apaixonado por tecnologia, design e código limpo.<br>
