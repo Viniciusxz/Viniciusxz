@@ -21,7 +21,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusxz&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniribeiro&theme=dracula&hide_border=true&background=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusxz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%23" />
 </p>
 
 ---
@@ -63,14 +63,6 @@
   <a href="mailto:viniciuslinsribeiro@gmail.com?subject=Contato%20do%20GitHub&body=Olá%20Vinícius,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.">
     <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-### 👁️ Contador de visitas
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=viniribeiro&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
