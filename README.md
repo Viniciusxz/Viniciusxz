@@ -20,7 +20,7 @@
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniribeiro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=79ff97" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusxz&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viniribeiro&theme=dracula&hide_border=true&background=0D1117" />
 </p>
 
