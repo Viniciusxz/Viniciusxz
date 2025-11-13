@@ -21,15 +21,7 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Viniciusxz&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusxz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%23" />
-</p>
-
----
-
-### 💻 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniribeiro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusxz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%23" />
 </p>
 
 ---
