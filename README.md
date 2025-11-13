@@ -60,7 +60,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=viniribeiro&theme=dracula&no-frame=true&margin-w=15" />
 </p>
-
 ---
 
 ### 🌐 Conecte-se comigo
