@@ -33,6 +33,7 @@
 </p>
 
 ---
+
 ### 🧠 Tecnologias que uso
 <div align="left">
 
@@ -47,12 +48,13 @@
 
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-
+  
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>
 
 </div>
 ---
+
 ### 🏆 Conquistas no GitHub
 
 <p align="center">
