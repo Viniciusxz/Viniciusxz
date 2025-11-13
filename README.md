@@ -65,7 +65,7 @@
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/vinícius-r-lins-2785a0364" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:viniciuslinsribeiro@gmail.com">
