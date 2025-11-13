@@ -81,4 +81,4 @@
 
 ---
 
-⭐ *Feito com dedicação e café ☕ por [Vinícius Ribeiro](https://github.com/Viniciusxz)*
+⭐ *Feito com dedicação por [Vinícius Ribeiro](https://github.com/Viniciusxz)*
