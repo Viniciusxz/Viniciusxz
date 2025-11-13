@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/vinícius-r-lins-2785a0364" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:viniciuslinsribeiro@gmail.com">
+  <a href="mailto:viniciuslinsribeiro@gmail.com?subject=Contato%20do%20GitHub&body=Olá%20Vinícius,%20vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20entrar%20em%20contato.">
     <img src="https://img.shields.io/badge/-Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
